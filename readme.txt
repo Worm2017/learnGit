@@ -1,2 +1,1 @@
-我下午在学使用Git。
-今天上午八点他们去了新疆。
+git is a good software.
